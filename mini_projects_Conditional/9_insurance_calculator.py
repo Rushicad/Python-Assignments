@@ -1,6 +1,7 @@
 '''Develop an insurance premium calculator. The premium category depends on age, 
 occupation risk, and smoking status. '''
 
+                '''Mini Project 9: Insurance Premium Calculator '''
 
 customer_name = input("Enter Your Name: ")
 age = int(input("Enter Your Age: "))
