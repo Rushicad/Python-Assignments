@@ -2,7 +2,7 @@
 Create a checkout program for an online shopping website. The discount depends on
 the purchase amount, and premium customers receive an additional benefit.
 """
-                '''Online Shopping Checkout '''
+                '''Mini Project 2:Online Shopping Checkout '''
 
 C_NAME = input("Enter Your Name : ")
 P_AMOUNT = int(input("Enter Your Purchase Amount : "))
