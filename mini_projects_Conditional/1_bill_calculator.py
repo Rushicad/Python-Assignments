@@ -2,6 +2,7 @@
 Develop a small electricity billing program for a household. The electricity board
 charges different rates according to the number of units consumed
 """
+                    ''' Smart Electricity Bill Calculator '''
 
 Customer_name = input("Enter Your Name : ")
 UNITS = int(input("Enter The Numbers Of Consumed Unit : "))
