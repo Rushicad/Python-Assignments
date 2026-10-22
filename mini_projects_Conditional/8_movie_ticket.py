@@ -1,6 +1,8 @@
 """Create a movie ticket pricing program for a cinema. Ticket price depends on AGE,
 show type, and whether the booking is on a weekend"""
 
+            '''Mini Project 8: Movie Ticket Booking'''
+
 CUSTOMER_NAME = input("Enter Your Name : ")
 AGE = int(input("Enter Your Age : "))
 SHOW_TYPE = input("Enter Show Type (Morning or Evening) : ").lower()
