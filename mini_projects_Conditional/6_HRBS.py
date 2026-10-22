@@ -1,6 +1,8 @@
 """Create a simple hotel booking calculator. The room PRICE depends on room type and
 the number of NIGHTS. Customers may also receive a discount based on their stay."""
 
+                    '''Mini Project 6: Hotel Room Booking System '''
+
 GUEST_NAME = input("Enter Your Name : ")
 print("Enter Which Type of Room Do You Want?")
 print(
