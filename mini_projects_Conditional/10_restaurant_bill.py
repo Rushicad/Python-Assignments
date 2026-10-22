@@ -1,6 +1,6 @@
 """Create a restaurant billing program for a customer. The service charge and DISCOUNT
 depend on the bill amount and membership status"""
-                                               '''Restaurant Bill and Service Charge'''
+                                       '''Mini Project 10: Restaurant Bill and Service Charge'''
 
 CUSTOMER_NAME = input("Enter Your Name: ")
 FOOD_BILL = float(input("Enter Your Food Bill Amount: "))
