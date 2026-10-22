@@ -1,6 +1,9 @@
 """Create a scholarship eligibility checker for a college. Students are selected based on
 marks, family INCOME, and attendance"""
 
+                '''Mini Project 4: Student Scholarship Eligibility'''
+
+
 S_NAME = input("Enter The Student Name : ")
 PERCENTAGES = int(input("Enter Your Percentages : "))
 INCOME = int(input("Enter Your Family Income : "))
